@@ -18,9 +18,9 @@ El juego se divide en dos fases:
         * 🟨 **Amarillo:** La letra está en la palabra pero en la posición incorrecta.
         * ⬜ **Gris:** La letra no está en la palabra.
 
-## Tecnologías utilizadas
-* **Lenguaje:** ![Versión de Java](https://img.shields.io/badge/Java-17+-orange.svg)
-* **Gestor de proyectos:** ![Build](https://img.shields.io/badge/Build-Maven-blue.svg)
+## Tecnologías utilizadas ![Versión de Java](https://img.shields.io/badge/Java-17+-orange.svg) ![Build](https://img.shields.io/badge/Build-Maven-blue.svg)
+* **Lenguaje:** Java
+* **Gestor de proyectos:** Maven
 * **Arquitectura:** Modelo-Vista-Controlador (MCV)
 
 ## Instalación y Ejecución
