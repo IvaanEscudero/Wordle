@@ -1,12 +1,11 @@
-# 🔠 Wordle Modificado
-
-![Versión de Java](https://img.shields.io/badge/Java-17+-orange.svg)
-![Build](https://img.shields.io/badge/Build-Maven-blue.svg)
-
 ## Descripción
-Esta es una versión personalizada del famoso juego **Wordle**, diseñada para ser jugada por dos personas en el mismo equipo. A diferencia del original, aquí la "inteligencia" la pone el primer jugador al elegir una palabra estratégica para desafiar al segundo.
+Esta es una versión personalizada del juego **Wordle**, diseñada para ser jugada por dos personas. A diferencia del original, aquí la palabra la pone el primer jugador para desafiar al segundo.
 
-## 🎮 Cómo Jugar
+![Captura de Wordle](imagen_wordle.jpg)
+
+Este proyecto fue desarrollado para la asignatura de Entorno de Usuario (EU) en la Universitat de València en 2021.
+
+## Cómo Jugar
 El juego se divide en dos fases:
 
 1.  **Fase de Configuración (Jugador 1):**
@@ -19,7 +18,7 @@ El juego se divide en dos fases:
         * 🟨 **Amarillo:** La letra está en la palabra pero en la posición incorrecta.
         * ⬜ **Gris:** La letra no está en la palabra.
 
-## Tecnologías utilizadas
+## Tecnologías utilizadas ![Versión de Java](https://img.shields.io/badge/Java-17+-orange.svg) ![Build](https://img.shields.io/badge/Build-Maven-blue.svg)
 * **Lenguaje:** Java
 * **Gestor de proyectos:** Maven
 * **Arquitectura:** Modelo-Vista-Controlador (MCV)
