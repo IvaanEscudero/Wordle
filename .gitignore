@@ -1,0 +1,19 @@
+# Maven - Archivos generados
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# IDEs (NetBeans, IntelliJ, VS Code)
+.nb-conf/
+nbproject/private/
+.idea/
+*.iml
+*.iws
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
