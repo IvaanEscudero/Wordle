@@ -1,7 +1,4 @@
-# 🔠 Wordle Modificado
-
-![Versión de Java](https://img.shields.io/badge/Java-17+-orange.svg)
-![Build](https://img.shields.io/badge/Build-Maven-blue.svg)
+# Wordle Modificado ![Versión de Java](https://img.shields.io/badge/Java-17+-orange.svg) ![Build](https://img.shields.io/badge/Build-Maven-blue.svg)
 
 ## Descripción
 Esta es una versión personalizada del famoso juego **Wordle**, diseñada para ser jugada por dos personas en el mismo equipo. A diferencia del original, aquí la "inteligencia" la pone el primer jugador al elegir una palabra estratégica para desafiar al segundo.
